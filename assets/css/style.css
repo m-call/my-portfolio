@@ -1,6 +1,7 @@
-/* Variables */
+/* Root Selector for Variables */
 :root {
-
+    --grey: dimgrey;
+    --blue: mediumturquoise;
 }
 
 /* Universal Selector */
@@ -9,7 +10,44 @@
 }
 
 /* Element Selectors */
+body {
+    background-color: azure;
+}
 
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: var(--grey);
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: var(--grey);
+    background-color: var(--blue);
+    margin-inline-start: -20px;
+}
+
+header nav {
+    padding-top: 10px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: var(--blue);
+}
 
 /* Class Selectors */
 
