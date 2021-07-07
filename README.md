@@ -17,3 +17,12 @@ A webpage to showcase my coding portfolio to potential employers. The portfolio 
 - Added 4 sections each with their own class for each image's subtitle box
 - Created the contact-me class and used that in its own section for the Contact Me part of the page
 - Added the heading and created another section inside with its own contacts class to style the contact links
+
+## Link to Repository
+[GitHub](https://github.com/mcall0147/my-portfolio)
+
+## Link to Website
+[My Portfolio](https://mcall0147.github.io/my-portfolio/)
+
+## Screenshot of Website
+![screenshot](./assets/images/Screenshot-2021-07-06-213537.png "My Portfolio")
