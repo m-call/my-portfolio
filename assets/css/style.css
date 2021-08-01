@@ -174,11 +174,11 @@ main {
 
 .flex-item {
   color: var(--darkBlue);
-  flex-basis: calc(50% - 1em);
+  flex-basis: calc(50% - 0.4em);
   display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
-  margin: 0.5em;
+  margin: 0.2em;
   text-decoration: none;
   background-blend-mode: soft-light;
   background-size: 150%;
@@ -221,12 +221,12 @@ main {
   background-image: url("../images/quiz.png");
 }
 
-.run-buddy {
-  background-image: url("../images/11.3.17_-_Neighborhood_Run_1.jpg");
+.cms {
+  background-image: url("../images/Screenshot-2021-07-31-212052.png");
 }
 
-.pastel-puzzles {
-  background-image: url("../images/PastelRoyaltyFreeAesthetic.jpg");
+.note-taker {
+  background-image: url("../images/Screenshot-2021-07-31-212235.png");
 }
 
 .contact-section {
