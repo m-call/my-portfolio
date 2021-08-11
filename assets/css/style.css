@@ -287,12 +287,12 @@ main {
     justify-content: center;
   }
 
-  .page-section > h2,
-  .page-section > div {
+  .section > h2,
+  .section > div {
     flex: 0 0 100%;
   }
 
-  .page-section > h2 {
+  .section > h2 {
     border-right: none;
     border-bottom: 4px solid var(--primary);
     margin-bottom: 20px;
@@ -321,12 +321,12 @@ main {
     justify-content: center;
   }
 
-  .page-section > h2,
-  .page-section > div {
+  .section > h2,
+  .section > div {
     flex: 0 0 100%;
   }
 
-  .page-section > h2 {
+  .section > h2 {
     border-right: none;
     border-bottom: 4px solid var(--primary);
     margin-bottom: 20px;
@@ -355,17 +355,26 @@ main {
     justify-content: center;
   }
 
-  .page-section > h2,
-  .page-section > div {
+  .section > h2,
+  .section > div {
     flex: 0 0 100%;
   }
 
-  .page-section > h2 {
+  .section > h2 {
     border-right: none;
     border-bottom: 4px solid var(--primary);
     margin-bottom: 20px;
     padding-bottom: 10px;
     text-align: left;
     font-size: 7vw;
+  }
+
+  .my-pic {
+    background-image: url("../images/1622476358061.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    min-width: 40%;
+    margin: 0;
   }
 }
