@@ -300,6 +300,15 @@ main {
     text-align: left;
     font-size: 7vw;
   }
+
+  .my-pic {
+    background-image: url("../images/1622476358061.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    min-width: 20%;
+    margin: 0;
+  }
 }
 
 /* Large smartphones */
@@ -333,6 +342,15 @@ main {
     padding-bottom: 10px;
     text-align: left;
     font-size: 7vw;
+  }
+
+  .my-pic {
+    background-image: url("../images/1622476358061.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    min-width: 30%;
+    margin: 0;
   }
 }
 
