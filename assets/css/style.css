@@ -301,6 +301,14 @@ main {
     font-size: 7vw;
   }
 
+  .section > div a div h3 {
+    font-size: 14px;
+  }
+
+  .section > div a div span {
+    font-size: 10px;
+  }
+
   .my-pic {
     background-image: url("../images/1622476358061.jpg");
     background-size: cover;
@@ -344,6 +352,14 @@ main {
     font-size: 7vw;
   }
 
+  .section > div a div h3 {
+    font-size: 14px;
+  }
+
+  .section > div a div span {
+    font-size: 10px;
+  }
+
   .my-pic {
     background-image: url("../images/1622476358061.jpg");
     background-size: cover;
@@ -385,6 +401,14 @@ main {
     padding-bottom: 10px;
     text-align: left;
     font-size: 7vw;
+  }
+
+  .section > div a div h3 {
+    font-size: 14px;
+  }
+
+  .section > div a div span {
+    font-size: 10px;
   }
 
   .my-pic {
